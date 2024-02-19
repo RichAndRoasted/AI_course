@@ -2,4 +2,6 @@
 https://www.kaggle.com/discussions/general/51898
 
 Ссылка на colab:
-https://colab.research.google.com/drive/1e2ZbeCAroXr90mpcoRgP8-LrcTZqQf1k?usp=sharing
+<a target="_blank" href="https://colab.research.google.com/github/vyacheslav-berezhnoy/AI_course/blob/main/simpsons/simpsons_lightning.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
